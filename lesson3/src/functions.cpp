@@ -35,7 +35,7 @@ float GetAmount(int n) {
 
 int main() {
 	// question 1
-	Hello("JOHN CENA DA DADA DAAAAAAA");
+	Hello("JOHN CENA DA DADA DAAAAAAA");	// i swear this wasn't me
 
 	// question 2
 	int b = 4;
