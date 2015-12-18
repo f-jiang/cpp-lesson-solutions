@@ -36,7 +36,7 @@ int main() {
 
 	// with functions
 	dist[0] = GetDistance(x1, y1, x2, y2);	// same calculations as before
-	dist[1] = GetDistance(x1, y1, 45, y3);
+	dist[1] = GetDistance(x1, y1, x3, y3);
 	dist[2] = GetDistance(x1, y1, x4, y4);
 	dist[3] = GetDistance(x2, y2, x3, y3);
 	dist[4] = GetDistance(x2, y2, x4, y4);
