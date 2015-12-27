@@ -11,7 +11,7 @@
 using namespace std;
 
 // question 1
-void Hello(string name) {
+void Hello(string name = "world") {	// the parameter "name" has a default value of "world"
 	cout << "Hello " << name;
 }
 
